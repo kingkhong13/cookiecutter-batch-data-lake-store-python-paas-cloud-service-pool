@@ -4,11 +4,11 @@ platforms: python
 author: msonecode
 ---
 
-# Create Azure Batch PaaS Cloud Service by Python
+# Create Azure Batch PaaS Cloud Service working with Azure Data Lake Store by Python
 
 ## Introduction
 
-A get-started Azure Batch sample written in Python, using Cloud Service Configuration for computing nodes in Batch pool and using Data Lake Service.
+A get-started Azure Batch sample written in Python, using Cloud Service Configuration for computing nodes in Batch pool, using Data Lake Service.
 <br/>
 <br/>
 <br/>
