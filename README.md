@@ -39,16 +39,12 @@ Install packages with the below commands in cmd.
 cd /d <The sample directory containing vs solution>
 python -m pip install -r requirements.txt
 ```
-<br/>
-<br/>
 
 *__Azure Batch account__*
 
 Once you have an Azure subscription, create an Azure Batch account.
 
 https://docs.microsoft.com/en-us/azure/batch/batch-account-create-portal
-<br/>
-<br/>
 
 *__Azure Storage account__*
 
@@ -56,9 +52,6 @@ Create an Azure Storage account.
 
 https://docs.microsoft.com/en-us/azure/storage/storage-create-storage-account#create-a-storage-account
 
-<br/>
-<br/>
-<br/>
 
 *__Azure Data Lake Store__*
 
@@ -66,9 +59,6 @@ Create an Azure Azure Data Lake Store account.
 
 https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-get-started-portal#create-an-azure-data-lake-store-account
 
-<br/>
-<br/>
-<br/>
 
 *__Azure AD Application__*
 
@@ -76,19 +66,12 @@ Create an Azure AD Application and grant privilege to Data Lake Store.
 
 https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-authenticate-using-active-directory
 
-<br/>
-<br/>
-<br/>
-
 *__Azure Tenant Id__*
 
 Get Azure Tenant Id.
 
 https://blogs.technet.microsoft.com/heyscriptingguy/2013/12/31/get-windows-azure-active-directory-tenant-id-in-windows-powershell/
 
-<br/>
-<br/>
-<br/>
 ## Build the Sample
 
 Prepare the information at below from Azure portal.
@@ -138,10 +121,6 @@ Replace the following properties in both python_tutorial_client.py and python_tu
 `_AAD_APPLICATION_ID = ''`
 
 `_AAD_APPLICATION_KEY = ''`
-
-<br/>
-<br/>
-<br/>
 
 ## Running the Sample
 
